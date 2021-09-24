@@ -2,7 +2,7 @@ Tic Tac Toe web app for 2 players made in React.
 
 You should have installed the latest version of Node.js.
 
-To bundle source code located in src folder you need to type: "npm run build".
+To bundle source code to dist folder,which is located in src folder you need to type: "npm run build".
 To start Webpack development server you need to type: "npm run start".
 	- Server will be available at http://localhost:8080.
 
